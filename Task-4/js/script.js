@@ -1,0 +1,1 @@
+// Create a shape class and create a rectangle and circle method find circle area(3.14*r*r) and rectangle area (width*height) using with argument.
